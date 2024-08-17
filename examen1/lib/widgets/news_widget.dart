@@ -21,6 +21,16 @@ class NewsWidget extends StatelessWidget {
         "description": "El próximo mes se llevará a cabo una conferencia sobre las últimas tendencias en tecnología.",
         "imageUrl": "assets/imagen3.jpg",
       },
+      {
+        "title": "Cambio de fecha de exámenes",
+        "description": "el examen del primer parcial, por este período se cambia para semana 6.",
+        "imageUrl": "assets/imagen4.jpg",
+      },
+      {
+        "title": "Apertura de salón de música",
+        "description": "Ya está disponible el salón con instrumentos musciales, para los amantes de la música.",
+        "imageUrl": "assets/imagen5.jpg",
+      },
     ];
 
     return Scaffold(

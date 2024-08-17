@@ -9,6 +9,9 @@ class TasksWidget extends StatelessWidget {
       "Tarea 1: Leer capítulo 5",
       "Tarea 2: Completar el proyecto de clase",
       "Tarea 3: Preparar para el examen de matemáticas",
+      "Tarea 4: Reunión con el equipo de programación",
+      "Tarea 5: Repasar ecuaciones diferenciales",
+      "Tarea 6: Enviar correo al docente de programación móvil"
     ];
 
     return Scaffold(
